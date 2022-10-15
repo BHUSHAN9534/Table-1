@@ -1,0 +1,14 @@
+tfoot{
+    text-align: center;
+}
+
+body {
+  border: 2px solid red;
+  width: 46%;
+  
+}
+
+td,th{
+    border: 1px solid black;
+    background-color: greenyellow;
+}
